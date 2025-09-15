@@ -8,7 +8,7 @@ load_dotenv()
 gemini_key = os.getenv("GEMINI_API_KEY")
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAk0h_4qGL02iVXnGj2VIb6X9qD4IZebOw")  # Replace with your actual API key
+genai.configure(api_key="{your_key}")  # Replace with your actual API key
 
 # Function: Prompt Gemini to generate SQL
 def get_gemini_sql(question, prompt):
