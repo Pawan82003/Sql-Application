@@ -34,7 +34,3 @@ A Python-based SQL application designed to perform basic database operations on 
 ## 🎯 Purpose
 
 This project was developed to understand database integration with Python and practice SQL operations in a real-world scenario.
-
-## 👤 Author
-
-Pawan
